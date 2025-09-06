@@ -1,7 +1,11 @@
 # Pusula_Zeynep_Bolukbasi
 Data Science Intern Case Study
+
 Name:Zeynep 
+
 Surname: Bolukbasi
+
+Email: zeynep.bolukbasi@gmail.com
 
 Treatment Duration Prediction (EDA, Pipeline, and Model Report)
 
